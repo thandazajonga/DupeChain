@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\thand\\Downloads\\gson-2.6.2.jar",
+        "c:\\Users\\thand\\Downloads\\bcprov-jdk15on-1.59.jar"
+    ]
+}
